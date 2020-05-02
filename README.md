@@ -1,2 +1,2 @@
 # hello_world
-Just setting up a first repository
+Just setting up the first repository
